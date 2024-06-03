@@ -40,3 +40,12 @@ a {
     font-weight: 900;
     color: #F9FAF8
 }
+
+.hero {
+    display: flex;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+}
