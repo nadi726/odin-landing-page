@@ -53,7 +53,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 23vh 15vw;
+    padding: 15vh 15vw;
     gap: 40px;
 }
 
@@ -98,7 +98,7 @@ a {
 .info {
     display: flex;
     flex-direction: column;
-    padding-bottom: 18vh;
+    padding-bottom: 15vh;
     gap: 20px;
     align-items: center;
 }
@@ -106,7 +106,7 @@ a {
 .info-heading {
     font-size: 36px;
     font-weight: 800;
-    padding: 8vh;
+    padding: 5vh;
 }
 
 .info-image {
@@ -140,12 +140,12 @@ a {
 
 /* quote section */
 .quote {
-    padding: 20vh 20vw;
+    padding: 15vh 20vw;
 }
 
 .quote-text {
     font-size: 36px;
-    font-weight: light;
+    font-weight: 200;
     font-style: italic;
 }
 
