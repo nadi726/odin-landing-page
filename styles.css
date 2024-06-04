@@ -10,10 +10,10 @@ body {
     background-color: #1F2937;
     color: white;
 }
-.section-3 {
+.quote {
     background-color: #E5E7EB;
 }
-.section-2, .section-4 {
+.info, .call-to-action {
     background-color: white;;
 }
 
