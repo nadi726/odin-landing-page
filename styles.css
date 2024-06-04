@@ -156,3 +156,32 @@ a {
     margin-top: 20px;
     margin-right: 40px;
 }
+
+/* call-to-action section */
+.call-to-action {
+    padding: 13vh 14vw;
+}
+.cta-banner {
+    background-color: #3882F6;
+    border-radius: 20px;
+    padding: 8vh 9vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta-text {
+    color: white;
+}
+.cta-title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.cta-subtext {
+    font-size: 20px;
+}
+
+.call-to-action .signup {
+    border: 3px solid white;
+    align-self: flex-end;
+}
