@@ -5,6 +5,8 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+/* general colors */
+
 .section-1, .footer {
     background-color: #1F2937;
     color: white;
@@ -134,4 +136,23 @@ a {
 
 .info-subtext {
     text-align: center;
+}
+
+/* quote section */
+.quote {
+    padding: 20vh 20vw;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+}
+
+.quote-citation {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 40px;
 }
